@@ -11,7 +11,7 @@ Losange::Losange(int const longeur)
 {
 
 }
-
+//czciebvev
 void Losange::setLongeur(int const longeur)
 {
     m_longeur = longeur;
