@@ -23,3 +23,5 @@ void Triangle::affichage() const
 {
     std::cout << "C'est un triangle de longeur " << m_longeur[0] << ", " << m_longeur[1] << ", " << m_longeur[2] << std::endl;
 }
+
+//eefeffe
