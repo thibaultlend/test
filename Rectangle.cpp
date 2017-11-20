@@ -26,3 +26,5 @@ void Rectangle::affichage() const
 {
     std::cout << "C'est un rectangle de longeur " << m_longeur << " et de largeur " << m_largeur << std::endl;
 }
+
+//vyvyv
