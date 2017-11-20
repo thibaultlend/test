@@ -18,3 +18,5 @@ public:
 };
 
 #endif // LOSANGE_H
+
+//b1 edit
