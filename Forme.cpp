@@ -5,6 +5,7 @@ Forme::Forme()
 {
 
 }
+//deef
 
 Forme::Forme(unsigned int const nbCote, std::string const nom)
     :m_nbCote(nbCote), m_nom(nom)
