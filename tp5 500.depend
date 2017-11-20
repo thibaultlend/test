@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1507640207 source:d:\documents\ece\ing2\informatique\tp4\tp5 500\forme.cpp
+	"Forme.h"
+
+1507640100 d:\documents\ece\ing2\informatique\tp4\tp5 500\forme.h
+	<iostream>
+
+1507644587 source:d:\documents\ece\ing2\informatique\tp4\tp5 500\losange.cpp
+	"Losange.h"
+
+1507644003 d:\documents\ece\ing2\informatique\tp4\tp5 500\losange.h
+	"Forme.h"
+
+1507644600 source:d:\documents\ece\ing2\informatique\tp4\tp5 500\main.cpp
+	<iostream>
+	"Rectangle.h"
+	"Triangle.h"
+	"Losange.h"
+
+1507642326 source:d:\documents\ece\ing2\informatique\tp4\tp5 500\triangle.cpp
+	"Triangle.h"
+
+1507642082 d:\documents\ece\ing2\informatique\tp4\tp5 500\triangle.h
+	"Forme.h"
+
+1507640638 source:d:\documents\ece\ing2\informatique\tp4\tp5 500\rectangle.cpp
+	"Rectangle.h"
+
+1507640529 d:\documents\ece\ing2\informatique\tp4\tp5 500\rectangle.h
+	"Forme.h"
+
+1507640207 source:d:\documents\ece\ing2\informatique\tp5\tp5 500\forme.cpp
+	"Forme.h"
+
+1507640100 d:\documents\ece\ing2\informatique\tp5\tp5 500\forme.h
+	<iostream>
+
+1507644587 source:d:\documents\ece\ing2\informatique\tp5\tp5 500\losange.cpp
+	"Losange.h"
+
+1507644003 d:\documents\ece\ing2\informatique\tp5\tp5 500\losange.h
+	"Forme.h"
+
+1508227485 source:d:\documents\ece\ing2\informatique\tp5\tp5 500\main.cpp
+	<iostream>
+	"Rectangle.h"
+	"Triangle.h"
+	"Losange.h"
+
+1507640529 d:\documents\ece\ing2\informatique\tp5\tp5 500\rectangle.h
+	"Forme.h"
+
+1507642082 d:\documents\ece\ing2\informatique\tp5\tp5 500\triangle.h
+	"Forme.h"
+
+1507640638 source:d:\documents\ece\ing2\informatique\tp5\tp5 500\rectangle.cpp
+	"Rectangle.h"
+
+1507642326 source:d:\documents\ece\ing2\informatique\tp5\tp5 500\triangle.cpp
+	"Triangle.h"
+
